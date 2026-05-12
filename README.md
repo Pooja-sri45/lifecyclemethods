@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="Screenshot 2026-05-12 144559" src="https://github.com/user-attachments/assets/1686f765-ae3c-43da-9284-9eb8f7ae9e7c" /># Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
+Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 
 ## AIM:
@@ -138,14 +138,18 @@ public class MainActivity extends AppCompatActivity {
 onCreate:
 <img width="1919" height="1079" alt="Screenshot 2026-05-03 140532" src="https://github.com/user-attachments/assets/62a31536-43c0-47d9-9ed5-ea0a2313d49d" />
 
+
 onStart:
 <img width="1919" height="1078" alt="Screenshot 2026-05-03 142951" src="https://github.com/user-attachments/assets/f8746a76-7bfb-49b9-b708-3b1ae4a21fd7" />
+
 
 onResume:
 <img width="1918" height="1073" alt="Screenshot 2026-05-03 143521" src="https://github.com/user-attachments/assets/e1eb2859-8a24-4530-a358-c09dce700e2f" />
 
+
 onPause
 <img width="1919" height="1079" alt="Screenshot 2026-05-03 142902" src="https://github.com/user-attachments/assets/3d042c23-24cf-44b8-9d77-078c3e3abb31" />
+
 
 onRestart
 <img width="1919" height="1076" alt="Screenshot 2026-05-03 144045" src="https://github.com/user-attachments/assets/d3088abb-8e7a-4870-bbeb-05d5b384fd01" />
