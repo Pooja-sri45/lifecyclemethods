@@ -147,10 +147,6 @@ onResume:
 <img width="1918" height="1073" alt="Screenshot 2026-05-03 143521" src="https://github.com/user-attachments/assets/e1eb2859-8a24-4530-a358-c09dce700e2f" />
 
 
-onPause
-<img width="1919" height="1079" alt="Screenshot 2026-05-03 142902" src="https://github.com/user-attachments/assets/3d042c23-24cf-44b8-9d77-078c3e3abb31" />
-
-
 onRestart
 <img width="1919" height="1076" alt="Screenshot 2026-05-03 144045" src="https://github.com/user-attachments/assets/d3088abb-8e7a-4870-bbeb-05d5b384fd01" />
 
